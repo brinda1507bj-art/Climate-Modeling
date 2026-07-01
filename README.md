@@ -15,9 +15,9 @@ An end-to-end data science pipeline and interactive web terminal engineered to i
 # Core Pipeline Architecture
 
 ├── 1. Data Cleaning & Parsing ──> 2. Statistical Exploratory Analysis (EDA)
-                                                    │
-                                                    ▼
-├── 4. Production Gradio UI UI <── 3. Hybrid Linear Trend & Seasonality Model
+
+├── 3. Hybrid Linear Trend & Seasonality Model ──> 4. Production Gradio UI UI
+
 
 # Libraries Used
 
