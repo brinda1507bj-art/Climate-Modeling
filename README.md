@@ -1,5 +1,6 @@
 # Climate-Modeling
-This repository contains scipts and data models designed to simulate atmospheric changes and analyze historical climate patterns.
+This repository contains scripts and data models designed to simulate atmospheric changes and analyze historical climate patterns.
+
 # Markdown
 # 🌊 Station D5GN6 Marine Climate Analytics & Forecasting Terminal
 
