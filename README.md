@@ -4,7 +4,7 @@ This repository contains scripts and data models designed to simulate atmospheri
 
 markdown
 
-# 🌊 Station D5GN6 Climate Projection Terminal
+# 🌊 Marine Time-Series Forecasting
 
 Developed an end-to-end marine climate pipeline that ingests, cleans, and indexes raw NOAA Common Marine Format logs for predictive modeling. Built a time-series forecasting model using Scikit-Learn linear estimators integrated with seasonal sinusoidal functions, using decimal-year feature scaling to eliminate mathematical prediction drift. Deployed an interactive, stakeholder-facing analytics terminal using Gradio to provide dynamic 30-year ocean temperature projections through 2045.
 
